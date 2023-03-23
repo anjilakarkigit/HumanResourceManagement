@@ -10559,11 +10559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/RecruitingWeb.csproj",
+      "projectUniqueName": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/RecruitingWeb/RecruitingWeb.csproj",
       "projectName": "RecruitingWeb",
-      "projectPath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/RecruitingWeb.csproj",
+      "projectPath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/RecruitingWeb/RecruitingWeb.csproj",
       "packagesPath": "/Users/anjila/.nuget/packages/",
-      "outputPath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/obj/",
+      "outputPath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/RecruitingWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anjila/.nuget/NuGet/NuGet.Config"
@@ -10578,11 +10578,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/ApplicationCore/ApplicationCore.csproj": {
-              "projectPath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/ApplicationCore/ApplicationCore.csproj"
+            "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/ApplicationCore.csproj": {
+              "projectPath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/ApplicationCore.csproj"
             },
-            "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/Infrastructure/Infrastructure.csproj"
+            "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/Infrastructure/Infrastructure.csproj"
             }
           }
         }

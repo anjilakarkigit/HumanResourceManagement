@@ -10350,11 +10350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/ApplicationCore/ApplicationCore.csproj",
+      "projectUniqueName": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/ApplicationCore/ApplicationCore.csproj",
+      "projectPath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/ApplicationCore.csproj",
       "packagesPath": "/Users/anjila/.nuget/packages/",
-      "outputPath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/ApplicationCore/obj/",
+      "outputPath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anjila/.nuget/NuGet/NuGet.Config"

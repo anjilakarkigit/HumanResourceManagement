@@ -23,7 +23,7 @@ public class JobRepository: IJobRepository
 
     public async Task<Job> GetJobById(int id)
     {
-        var job = await _dbContext.Jobs.FirstOrDefaultAsync(j => j.Id == Id);
+        var job = await _dbContext.Jobs.FirstOrDefaultAsync(j => j.Id == id);
         return job;
     }
 }

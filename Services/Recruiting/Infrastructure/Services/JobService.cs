@@ -21,8 +21,12 @@ public class JobService: IJobService
         {
             jobResponseModel.Add(new JobResponseModel
             {
-                Id = job.Id, Description = job.Description, Title = job.Title, 
-                StartDate=job.StartDate, NumberOfPositions = job.NumberOfPositions
+                Id = job.Id,
+                JobCode=job.JobCode, 
+                NumberOfPositions = job.NumberOfPositions,  
+                Title = job.Title, 
+                Description = job.Description, 
+                StartDate=job.StartDate
             });
         }
 
@@ -37,11 +41,23 @@ public class JobService: IJobService
 
     public async Task<JobResponseModel> GetJobById(int id)
     {
+
         var job = await _jobRepository.GetJobById(id);
+
+        if (job == null)
+        {
+            return null;
+        }
         var jobResponseModel = new JobResponseModel
         {
-            Id = job.Id, Title = job.Title, StartDate = job.StartDate, Description = job.Description
+            JobCode = job.JobCode,
+            Title = job.Title,
+            Description = job.Description,
+            NumberOfPositions = job.NumberOfPositions,
+            IsActive = job.IsActive,
+            CreatedOn = job.CreatedOn
         };
+    
         return jobResponseModel;
     }
-}
+    }

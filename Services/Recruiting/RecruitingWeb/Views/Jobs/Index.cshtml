@@ -1,31 +1,24 @@
 @model IEnumerable<ApplicationCore.Models.JobResponseModel>
 
-@{
-    ViewData["Title"] = "Index";
-}
+<h1>Jobs</h1>
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create" asp-controller="Jobs">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                Id
+                JobCode
             </th>
             <th>
-                Title
+                NumberOfPosition
             </th>
             <th>
-               Description
+               Title
             </th>
             <th>
-                Start Date
+                Description
             </th>
             <th>
-                Number of Positions
+                StartDate
             </th>
             <th></th>
         </tr>
@@ -34,10 +27,13 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Id)
+                @Html.DisplayFor(modelItem => item.JobCode)
             </td>
             <td>
-                <a asp-action="Details" asp-controller="Jobs" asp-route-id="@item.Id">@item.Title </a>
+                <a>@item.NumberOfPositions </a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
@@ -46,7 +42,7 @@
                 @Html.DisplayFor(modelItem => item.StartDate)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.NumberOfPositions)
+                <a asp-action="Details" asp-controller="Jobs" asp-route-id="@item.Id">Details</a>
             </td>
             
         </tr>

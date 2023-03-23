@@ -5,7 +5,7 @@ namespace WebApplication1.Controllers;
 public class SubmissionsController : Controller
 {
     // GET
-    public IActionResult Index()
+    public IActionResult Create()
     {
         return View();
     }

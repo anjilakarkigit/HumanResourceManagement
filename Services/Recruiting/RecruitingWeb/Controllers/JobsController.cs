@@ -1,4 +1,5 @@
 using ApplicationCore.Contracts.Services;
+using ApplicationCore.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication1.Controllers;
@@ -31,10 +32,24 @@ public class JobsController : Controller
     
     //Users should be authenticated and user should have role for creating new job
     //HR/Manager
-    [HttpPost]
+    [HttpGet]
     public IActionResult Create()
     {
         //take the information from the View and save to DB
         return View();
     }
+    
+    // [HttpPost]
+    // public async Task<IActionResult> Create(JobRequestModel model)
+    // {
+    //     // check if the model is valid, on the server
+    //     if (!ModelState.IsValid)
+    //     {
+    //         return View();
+    //     }
+    //     // save the data in database
+    //     // return to the index view
+    //     await _jobService.AddJob(model);
+    //     return RedirectToAction("Index");
+    // }
 }

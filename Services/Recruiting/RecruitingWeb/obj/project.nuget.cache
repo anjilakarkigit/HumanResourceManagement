@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gz11zSxS2gEwLgkhoXfFp14zX/aV8qjATuP2YaphJ8LMw2/dS2GmfvKES6e8YfKDH7FLJf3Ag730nEFZPm57/Q==",
+  "dgSpecHash": "cN85u/07NJ8Jk8YCAWTWd1eKW9uSQQrKjkdsZ7hfuT5hIXGSdEngwOR3GrCuLp0G83KBAPQYp7s1iJkz6rHYBg==",
   "success": true,
-  "projectFilePath": "/Users/anjila/RiderProjects/Feb2023/src/HRM/Services/Recruiting/RecruitingWeb/RecruitingWeb.csproj",
+  "projectFilePath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/RecruitingWeb/RecruitingWeb.csproj",
   "expectedPackageFiles": [
     "/Users/anjila/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/anjila/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

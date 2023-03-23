@@ -23,7 +23,6 @@
 
     <ItemGroup>
       <Folder Include="Views\Candidate" />
-      <Folder Include="Views\Jobs" />
     </ItemGroup>
 
 </Project>

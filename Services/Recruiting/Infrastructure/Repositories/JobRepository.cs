@@ -1,4 +1,3 @@
-using System.Text.Json.Serialization;
 using ApplicationCore.Contracts.Repositories;
 using ApplicationCore.Entities;
 using Infrastructure.Data;
@@ -6,17 +5,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Repositories;
 
-public class JobRepository: IJobRepository
+public class JobRepository : BaseRepository<Job>, IJobRepository
 {
-    private RecruitingDbContext _dbContext;
-    public JobRepository(RecruitingDbContext dbContext)
+    public JobRepository(RecruitingDbContext dbContext) : base(dbContext)
     {
-        _dbContext = dbContext;
     }
-    //go to the database and get the data
-    //EF Core with LINQ
+
     public async Task<List<Job>> GetAllJobs()
     {
+        // go to the database and get the data
+        // EF Core with LINQ 
         var jobs = await _dbContext.Jobs.ToListAsync();
         return jobs;
     }
@@ -27,6 +25,8 @@ public class JobRepository: IJobRepository
         return job;
     }
 }
+
+
 
 
 

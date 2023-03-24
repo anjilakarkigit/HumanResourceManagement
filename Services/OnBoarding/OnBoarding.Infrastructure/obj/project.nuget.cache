@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5CnC1+N1DLiyPcBgEPhQq1eBiCC7elOejAvN3OGa4Q1Egezt35jh8xjKqaQfLBftH6ZrKrNhukAqSp4DXVh1Q==",
+  "success": true,
+  "projectFilePath": "/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/OnBoarding.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/anjila/.nuget/packages/microsoft.entityframeworkcore/8.0.0-preview.2.23128.3/microsoft.entityframeworkcore.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0-preview.2.23128.3/microsoft.entityframeworkcore.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0-preview.2.23128.3/microsoft.entityframeworkcore.analyzers.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.caching.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.caching.memory/8.0.0-preview.2.23128.3/microsoft.extensions.caching.memory.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0-preview.2.23128.3/microsoft.extensions.dependencyinjection.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.logging/8.0.0-preview.2.23128.3/microsoft.extensions.logging.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.logging.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.options/8.0.0-preview.2.23128.3/microsoft.extensions.options.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/anjila/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.2.23128.3/microsoft.extensions.primitives.8.0.0-preview.2.23128.3.nupkg.sha512"
+  ],
+  "logs": []
+}

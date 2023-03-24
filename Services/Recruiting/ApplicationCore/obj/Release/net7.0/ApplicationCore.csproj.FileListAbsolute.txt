@@ -1,0 +1,12 @@
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/bin/Release/net7.0/ApplicationCore.deps.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/bin/Release/net7.0/ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/bin/Release/net7.0/ApplicationCore.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.AssemblyInfo.cs
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/refint/ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ApplicationCore.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Recruiting/ApplicationCore/obj/Release/net7.0/ref/ApplicationCore.dll

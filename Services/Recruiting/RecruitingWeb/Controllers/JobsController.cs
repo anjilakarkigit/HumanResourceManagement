@@ -51,6 +51,7 @@ public class JobsController : Controller
         }
         // save the data in database
         // return to the index view
+       
         await _jobService.AddJob(model);
         return RedirectToAction("Index");
     }

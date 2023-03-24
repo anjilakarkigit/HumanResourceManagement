@@ -1,0 +1,12 @@
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Authentication.API
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/appsettings.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Authentication.API.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Authentication.API.deps.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Authentication.API.runtimeconfig.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Authentication.API.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Authentication/Authentication.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

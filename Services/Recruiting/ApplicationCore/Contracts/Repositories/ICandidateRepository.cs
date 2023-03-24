@@ -1,6 +1,8 @@
+using ApplicationCore.Entities;
+
 namespace ApplicationCore.Contracts.Repositories;
 
-public interface ICandidateRepository
+public interface ICandidateRepository: IBaseRepository<Candidate>
 {
     
 }

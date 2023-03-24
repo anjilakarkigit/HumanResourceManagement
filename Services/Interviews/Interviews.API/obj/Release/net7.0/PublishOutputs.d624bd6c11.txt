@@ -1,0 +1,16 @@
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.API
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/appsettings.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.API.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.API.deps.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.API.runtimeconfig.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.API.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/OnBoarding.ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/Interviews.ApplicationCore.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.API/bin/Release/net7.0/publish/OnBoarding.ApplicationCore.pdb

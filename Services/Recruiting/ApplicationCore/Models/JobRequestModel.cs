@@ -5,7 +5,7 @@ namespace ApplicationCore.Models;
 public class JobRequestModel
 {
     
-    public int Id { get; set; }
+    public Guid JobCode { get; set; }
     
     [Required(ErrorMessage="Please enter the title of the job")]
     [StringLength(256)]

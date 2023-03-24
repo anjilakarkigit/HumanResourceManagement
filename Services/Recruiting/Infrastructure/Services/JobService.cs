@@ -65,7 +65,7 @@ public class JobService: IJobService
         // call the repository that will use EF Core to save the data
         var jobEntity = new Job
         {
-            Title = model.Title, StartDate = model.StartDate, Description = model.Description,
+            JobCode = System.Guid.NewGuid(), Title = model.Title, StartDate = model.StartDate, Description = model.Description,
             CreatedOn = DateTime.UtcNow, NumberOfPositions = model.NumberOfPositions,
             JobStatusLookUpId = 1
             

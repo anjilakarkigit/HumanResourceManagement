@@ -1,0 +1,15 @@
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/bin/Debug/net7.0/OnBoarding.Infrastructure.deps.json
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/bin/Debug/net7.0/OnBoarding.Infrastructure.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/bin/Debug/net7.0/OnBoarding.Infrastructure.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/bin/Debug/net7.0/OnBoarding.ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/bin/Debug/net7.0/OnBoarding.ApplicationCore.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.csproj.AssemblyReference.cache
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.AssemblyInfoInputs.cache
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.AssemblyInfo.cs
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.csproj.CopyComplete
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/refint/OnBoarding.Infrastructure.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/OnBoarding.Infrastructure.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/OnBoarding/OnBoarding.Infrastructure/obj/Debug/net7.0/ref/OnBoarding.Infrastructure.dll

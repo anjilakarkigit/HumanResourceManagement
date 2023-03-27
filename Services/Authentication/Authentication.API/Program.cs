@@ -1,3 +1,8 @@
+using Authentication.API.Data;
+using Authentication.API.Entities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,16 +12,27 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var dockerConnectionString = Environment.GetEnvironmentVariable("MSSQLConnectionString");
+builder.Services.AddDbContext<AuthenticationDbContext>
+(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("AuthenticationDbConnection"))
+    );
+
+// Specific to Identity Database
+builder.Services.AddIdentity<User, Role>()
+    .AddEntityFrameworkStores<AuthenticationDbContext>()
+    .AddDefaultTokenProviders();
+
+
+//var dockerConnectionString = Environment.GetEnvironmentVariable("MSSQLConnectionString");
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-//if (app.Environment.IsDevelopment())
-//{
+if (app.Environment.IsDevelopment())
+{
     app.UseSwagger();
     app.UseSwaggerUI();
-//}
+}
 
 app.UseHttpsRedirection();
 

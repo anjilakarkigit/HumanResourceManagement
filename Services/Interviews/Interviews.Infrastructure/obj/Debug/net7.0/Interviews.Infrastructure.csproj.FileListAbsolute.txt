@@ -10,3 +10,6 @@
 /Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.Infrastructure/obj/Debug/net7.0/refint/Interviews.Infrastructure.dll
 /Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.Infrastructure/obj/Debug/net7.0/Interviews.Infrastructure.pdb
 /Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.Infrastructure/obj/Debug/net7.0/ref/Interviews.Infrastructure.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.Infrastructure/bin/Debug/net7.0/Interviews.ApplicationCore.dll
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.Infrastructure/bin/Debug/net7.0/Interviews.ApplicationCore.pdb
+/Users/anjila/RiderProjects/HumanResourceManagement/Services/Interviews/Interviews.Infrastructure/obj/Debug/net7.0/Interviews.Infrastructure.csproj.CopyComplete

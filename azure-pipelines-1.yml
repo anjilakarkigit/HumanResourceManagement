@@ -1,4 +1,3 @@
-
 # YAML file for .NET application build pipeline
 
 trigger:
@@ -7,7 +6,7 @@ trigger:
     - main
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'ubuntu-latest'
 
 variables:
   buildConfiguration: 'Release'
@@ -39,7 +38,7 @@ steps:
     rootFolderOrFile: '$(Build.BinariesDirectory)'
     includeRootFolder: true
     archiveType: 'zip'
-    archiveFile: '$(Build.BinariesDirectory)/$(artifactName)'
+    archiveFile: '$(Build.BinariesDirectory)/**/*'
     replaceExistingArchive: true
   displayName: 'Archive'
 
